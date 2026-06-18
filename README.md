@@ -20,7 +20,9 @@ A player must collide with a powerup to collect it. There are four powerups. The
 
 Player details:
 When the player loses all their lives, it is game over. To restart, press the space bar.
+
 ![Star Wars Galaga Image](Star-wars-galaga-output-screenie.png)
+
 The player can increase their score by defeating enemies.
 
 ## Controls
