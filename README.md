@@ -1,6 +1,5 @@
 # star-wars-galaga
 ![Star Wars Galaga Image](Star-wars-galaga-output-screenie-two.png)
-![Star Wars Galaga Image](Star-wars-galaga-output-screenie.png)
 
 ## Description
 A game that implements features from Galaga but also adds a Star Wars theme. Developed by using AI (Google Gemini and ChatGPT).
@@ -20,7 +19,8 @@ Powerups:
 A player must collide with a powerup to collect it. There are four powerups. The green powerup grants increased speed. The blue powerup with the plus sign grants an extra life. The blue powerup without the plus sign grants the player the ability to shoot two projectiles at once. The yellow/orange powerup grants the player the ability to shoot three projectiles at once. 
 
 Player details:
-When the player loses all their lives, it is game over. To restart, press the space bar. 
+When the player loses all their lives, it is game over. To restart, press the space bar.
+![Star Wars Galaga Image](Star-wars-galaga-output-screenie.png)
 The player can increase their score by defeating enemies.
 
 ## Controls
@@ -32,3 +32,5 @@ Make sure that python and pygame is installed. Usually pygame is installed throu
 ## Cheats
 If you ever want to cheat then modify line 959 in the game file.
 score, level, player_lives, game_active = 0, 1, 3, True
+
+![Star Wars Galaga Image](Star-wars-galaga-cheat-image.png)
