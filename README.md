@@ -25,6 +25,9 @@ When the player loses all their lives, it is game over. To restart, press the sp
 
 The player can increase their score by defeating enemies.
 
+## Code
+There are multiple different classes and functions within the game file. Many classes relate towards certain enemies such as the ExecutorBoss class. Within many of these classes there are functions including some draw functions. These draw functions make it so that players don't have to manually download files such as certain sprites to play the game. The code handles it for the player. I designed it this way because the player now only needs to have pygame, python, and the game file on their computer instead of some other image/sprite files. AI designed these functions while I made sure they were what I wanted and worked properly. If there was a problem, then I would work with AI to solve it.
+
 ## Controls
 Use the left and right arrow keys to move or use A and D keys. Press space bar to fire projectiles and to restart if it is game over.
 
