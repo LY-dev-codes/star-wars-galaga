@@ -4,7 +4,7 @@ import pygame, sys, random, math
 pygame.init()
 SCREEN_WIDTH, SCREEN_HEIGHT = 800, 600
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Star Wars Shooter Ultra: Death Star Edition")
+pygame.display.set_caption("Star Wars Galaga")
 clock = pygame.time.Clock()
 
 # --- GLOBALS ---
