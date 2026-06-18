@@ -1,4 +1,5 @@
 # star-wars-galaga
+![Star Wars Galaga Image](Star-wars-galaga-output-screenie-two.png)
 ![Star Wars Galaga Image](Star-wars-galaga-output-screenie.png)
 
 ## Description
